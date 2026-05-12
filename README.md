@@ -1,8 +1,8 @@
 <p align="center">
   𝒏𝒆𝒗𝒆𝒓 𝒍𝒐𝒔𝒆 𝒇𝒂𝒊𝒕𝒉 𝒊𝒏 𝒚𝒐𝒖𝒓 𝒅𝒓𝒆𝒂𝒎; 𝒘𝒐𝒓𝒌 𝒔𝒐 𝒉𝒂𝒓𝒅 𝒕𝒉𝒂𝒕 𝒚𝒐𝒖 𝒄𝒂𝒏'𝒕 𝒇𝒂𝒊𝒍. - 𝑶𝒔𝒂𝒎𝒂𝒔𝒐𝒏 <br />
   I've been developing cheating related projects for 8 years.<br />
-  I'm taking a break from development, one day I'll come back to post more projects.<br />
-  Never lose faith in your project, there's always room for improvement and your time will reflect your results.<br />
+I'm taking a break from development, one day I'll come back to post more projects.<br />
+Never lose faith in your project, there's always room for improvement and your time will reflect your results.<br />
   My discord is: hvlpvmx<br />
 </p>
 <p align="center">
