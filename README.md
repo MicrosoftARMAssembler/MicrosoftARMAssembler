@@ -3,7 +3,8 @@
   I've been developing cheating related projects for 8 years.<br />
 I'm taking a break from development, one day I'll come back to post more projects.<br />
 Never lose faith in your project, there's always room for improvement and your time will reflect your results.<br />
-  My discord is: hvlpvmx<br />
+  My old github is: MicrosoftMacroAssembler<br />
+My discord is: hvlpvmx<br />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Non-MaskableInterrupt&color=d16ef4&abbreviated=true" alt="Profile Views"/>
