@@ -5,9 +5,6 @@ Terminated Github: MicrosoftMacroAssembler<br />
 Discord: hvlpvmx<br />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Non-MaskableInterrupt&color=d16ef4&abbreviated=true" alt="Profile Views"/>
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MicrosoftARMAssembler&theme=github_dark" alt="Pofile Stats"/>
 </p>
 <p align="center">
