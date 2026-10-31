@@ -1,8 +1,7 @@
 <p align="center">
   𝒏𝒆𝒗𝒆𝒓 𝒍𝒐𝒔𝒆 𝒇𝒂𝒊𝒕𝒉 𝒊𝒏 𝒚𝒐𝒖𝒓 𝒅𝒓𝒆𝒂𝒎; 𝒘𝒐𝒓𝒌 𝒔𝒐 𝒉𝒂𝒓𝒅 𝒕𝒉𝒂𝒕 𝒚𝒐𝒖 𝒄𝒂𝒏'𝒕 𝒇𝒂𝒊𝒍. - 𝑶𝒔𝒂𝒎𝒂𝒔𝒐𝒏 <br />
 Never lose faith in your project, there's always room for improvement and time will reflect your results.<br />
-Terminated Github: MicrosoftMacroAssembler<br />
-Discord: hvlpvmx<br />
+Discord: leproxy1337<br />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Non-MaskableInterrupt&color=d16ef4&abbreviated=true" alt="Profile Views"/>
